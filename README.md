@@ -17,13 +17,13 @@ https://betashort-life.com/%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9/post-10
 papers, blogs, books
 
 ## 分野
-情報学 - Information Science
-ロボティクス - Robotics
-宇宙 - Space Engineering
-衛星工学 - Satellite Engineering
-テザー衛星 - Tethered Satellite
-制御 - Control Engineering
-哲学 - Philosophy
+- 情報学 - Information Science
+- ロボティクス - Robotics
+- 宇宙 - Space Engineering
+- 衛星工学 - Satellite Engineering
+- テザー衛星 - Tethered Satellite
+- 制御 - Control Engineering
+- 哲学 - Philosophy
 
 # format
 ```
