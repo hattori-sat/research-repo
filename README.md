@@ -11,7 +11,7 @@ https://betashort-life.com/%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9/post-10
 共有可能な情報源として文献を置いていきたい。
 
 
-#　ラベル
+# ラベル
 
 ## 文書の種類
 papers, blogs, books
