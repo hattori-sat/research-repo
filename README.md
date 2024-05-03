@@ -12,8 +12,9 @@ https://betashort-life.com/%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9/post-10
 
 
 #　ラベル
+
 ## 文書の種類
-paper, blog, book
+papers, blogs, books
 
 ## 分野
 情報学 - Information Science
